@@ -1,0 +1,145 @@
+City,Frequency,Country,latitude,longitude
+Los Angeles,16,United States,34.0536909,-118.242766
+London,12,England,51.5074456,-0.1277653
+Toronto,10,Canada,43.6534817,-79.3839347
+Philadelphia,10,United States,39.9527237,-75.1635262
+Melbourne,10,Australia,-37.8142454,144.9631732
+Foxborough,10,United States,42.0653768,-71.2478308
+Newark,9,United States,40.735657,-74.1723667
+Nashville,9,United States,36.1622767,-86.7742984
+St. Louis,8,United States,38.6280278,-90.1910154
+Saint Paul,8,United States,44.9497487,-93.0931028
+Washington,8,United States,38.8950368,-77.0365427
+Glendale,8,United States,34.1469416,-118.2478471
+Sydney,7,Australia,-33.8698439,151.2082848
+Edmonton,7,Canada,53.5462055,-113.491241
+Atlanta,7,United States,33.7489924,-84.3902644
+Tokyo,7,Japan,35.6821936,139.762221
+Kansas City,7,United States,39.100105,-94.5781416
+Omaha,7,United States,41.2587459,-95.9383758
+Denver,7,United States,39.7392364,-104.984862
+Auckland,7,New Zealand,-36.5412811,174.5506104914412
+Columbus,6,United States,39.9622601,-83.0007065
+Houston,6,United States,29.7589382,-95.3676974
+Brisbane,6,Australia,-27.4689682,153.0234991
+East Rutherford,6,United States,40.833989,-74.0970865
+Louisville,5,United States,38.2542376,-85.759407
+Arlington,5,United States,32.7355816,-97.1071186
+Tampa,5,United States,27.9477595,-82.458444
+Chicago,5,United States,41.8755616,-87.6244212
+Manchester,5,England,53.4794892,-2.2451148
+Pittsburgh,5,United States,40.4416941,-79.9900861
+Indianapolis,5,United States,39.7683331,-86.1583502
+Cleveland,5,United States,41.4996574,-81.6936772
+Singapore,5,Singapore,1.357107,103.8194992
+Dublin,5,Ireland,53.3493795,-6.2605593
+Orlando,4,United States,28.5421109,-81.3790304
+Charlotte,4,United States,35.2272086,-80.8430827
+Santa Clara,4,United States,37.2333253,-121.6846349
+Des Moines,4,United States,41.5868654,-93.6249494
+Rosemont,4,United States,41.9941334,-87.8756737
+Raleigh,4,United States,35.7803977,-78.6390989
+Lexington,4,United States,38.0464066,-84.4970393
+San Diego,4,United States,32.7174202,-117.162772
+Salt Lake City,4,United States,40.7596198,-111.886797
+Columbia,4,United States,34.0003117,-81.0331309
+Greensboro,4,United States,36.0726355,-79.7919754
+Detroit,4,United States,42.3315509,-83.0466403
+Adelaide,4,Australia,-34.9281805,138.5999312
+Vancouver,4,Canada,49.2608724,-123.113952
+Shanghai,4,China,31.2323437,121.4700152
+Sunrise,3,United States,26.1666888,-80.2787573
+San Jose,3,United States,37.3361663,-121.890591
+Minneapolis,3,United States,44.9772995,-93.2654692
+Austin,3,United States,30.2711286,-97.7436995
+Tulsa,3,United States,36.1563122,-95.9927516
+Miami,3,United States,25.7741728,-80.19362
+Bossier City,3,United States,32.515887,-93.7336536
+Portland,3,United States,45.5202471,-122.674194
+Seattle,3,United States,47.6038321,-122.330062
+Perth,3,Australia,-31.9558933,115.8605855
+Jacksonville,2,United States,30.3321838,-81.655651
+Wichita,2,United States,37.6922361,-97.3375448
+Cologne,2,Germany,50.938361,6.959974
+Sacramento,2,United States,38.5810606,-121.493895
+Grand Rapids,2,United States,42.9632425,-85.6678639
+North Little Rock,2,United States,34.769536,-92.2670941
+Montreal,2,Canada,45.5031824,-73.5698065
+Pasadena,2,United States,34.1476507,-118.144155
+Uniondale,2,United States,40.7095827,-73.592341
+Ottawa,2,Canada,45.4208777,-75.6901106
+Landover,2,United States,38.9340002,-76.8966397
+Oklahoma City,2,United States,35.4729886,-97.5170536
+Tacoma,2,United States,47.2455013,-122.438329
+Auburn Hills,2,United States,42.6875323,-83.2341028
+Charlottesville,2,United States,38.029306,-78.4766781
+Winnipeg,2,Canada,49.8955367,-97.1384584
+Fargo,2,United States,46.877229,-96.789821
+New York,2,United States,40.7127281,-74.0060152
+San Antonio,2,United States,29.4246002,-98.4951405
+Baton Rouge,2,United States,30.4494155,-91.1869659
+Birmingham,2,United States,33.5206824,-86.8024326
+Birmingham,2,England,52.4796992,-1.9026911
+Dallas,2,United States,32.7762719,-96.7968559
+New Orleans,2,United States,29.9759983,-90.0782127
+Milwaukee,1,United States,43.0349931,-87.922497
+Buffalo,1,United States,42.8867166,-78.8783922
+Belfast,1,Northern Ireland,54.596391,-5.9301829
+Hartford,1,United States,41.764582,-72.6908547
+Madrid,1,Spain,9.2617815,125.9637534
+Knoxville,1,United States,35.9603948,-83.9210261
+Evansville,1,United States,37.970495,-87.5715641
+Milan,1,Italy,45.4641943,9.1896346
+Lubbock,1,United States,33.5855677,-101.8470215
+Memphis,1,United States,35.1460249,-90.0517638
+Berlin,1,Germany,52.5170365,13.3888599
+Saitama,1,Japan,35.9754168,139.4160114
+Jakarta,1,Indonesia,-6.175247,106.8270488
+Pasay,1,Philippines,14.5436995,120.9946503
+Kuala Lumpur,1,Malaysia,3.1516964,101.6942371
+Winchester,1,United States,39.1852184,-78.1652404
+Amsterdam,1,Netherlands,52.3730796,4.8924534
+Glasgow,1,Scotland,55.861155,-4.2501687
+Paris,1,France,48.8534951,2.3483915
+Cincinnati,1,United States,39.1014537,-84.5124602
+Oberhausen,1,Germany,51.4696137,6.8514435
+Weston-under-Lizard,1,England,52.6957818,-2.2908629
+Detroit Lakes,1,United States,46.817181,-95.845325
+Minot,1,United States,48.23251,-101.296273
+Rapid City,1,United States,44.0806041,-103.228023
+Cheyenne,1,United States,41.139981,-104.820246
+Charleston,1,United States,32.7884363,-79.9399309
+Twin Lakes,1,United States,43.5596779,-93.4229885
+Craven,1,Canada,50.7072638,-104.8092048
+Calgary,1,Canada,51.0456064,-114.057541
+Cadott,1,United States,44.9480187,-91.1507031
+Oshkosh,1,United States,44.0206919,-88.5408574
+New Brockton,1,United States,31.3857239,-85.9293861
+Paradise,1,United States,36.1011223,-115.1479329
+Nampa,1,United States,43.5737361,-116.559631
+Spokane,1,United States,47.6571934,-117.42351
+Biloxi,1,United States,30.4007626,-88.8893818
+North Charleston,1,United States,32.8546197,-79.9748103
+Alexandria,1,United States,38.8051095,-77.0470229
+Chelmsford,1,England,51.7345329,0.4730532
+New York City,1,United States,40.7127281,-74.0060152
+Oslo,1,Norway,59.9133301,10.7389701
+Montville,1,United States,44.4460367,-69.2729194
+Rotterdam,1,Netherlands,51.9244424,4.47775
+Brussels,1,Belgium,50.8550018,4.3512333761166175
+Hong Kong,1,Hong Kong,22.2793278,114.1628131
+Quezon City,1,Philippines,14.6510546,121.0486254
+Osaka,1,Japan,40.6932715,-111.9545824
+Seoul,1,South Korea,37.5666791,126.9782914
+Cavendish,1,Canada,46.4912529,-63.3785021
+Nassau,1,The Bahamas,25.0782266,-77.3383438
+Moline,1,United States,41.5058344,-90.5136642
+Fresno,1,United States,36.7295295,-119.70886126075588
+Jonesboro,1,United States,35.8272257,-90.6949871
+Corpus Christi,1,United States,27.7635302,-97.4033191
+Newcastle,1,Australia,-32.9192953,151.7795348
+Lafayette,1,United States,29.9978185,-83.2221527
+Greenville,1,United States,34.851354,-82.3984882
+Duluth,1,United States,46.7729322,-92.1251218
+University Park,1,United States,41.4400344,-87.683377
+Miami Gardens,1,United States,25.9420377,-80.2456045
