@@ -19,3 +19,4 @@ We have information about some of the most relevant music pop artists. Analyze (
 
 
 The work is done notebooks. The plots of altair library are not shown in github. They have to run. I have some images of the final multi-views.
+Project 2 has interactios and they cant be presented from the screenshots. If the viewer is interested he/she has to run the notebooks.
