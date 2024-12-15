@@ -18,4 +18,4 @@ We have information about some of the most relevant music pop artists. Analyze (
 • Compare the concert attendance (or income, or place, or other variables) of a subset of artists (the user can select among) along time.
 
 
-The work is done notebooks.
+The work is done notebooks. The plots of altair library are not shown in github. They have to run. I have some images of the final multi-views.
